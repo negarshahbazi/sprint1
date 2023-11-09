@@ -25,9 +25,7 @@ section{
     height: 300px;
 }
 
-* {
-    background-color: antiquewhite;
-}
+
 
 .c1 {
     margin-left: 50px;
@@ -43,7 +41,10 @@ footer {
     position: fixed;
 
 }
+.bg{
+    background-color: bisque;
 
+}
 .socials-networks {
     background-color: black;
     display: flex;
@@ -57,7 +58,8 @@ footer {
     height: 40px;
     border-radius: 50%;
     margin: 10px;
-    
+    background-color: rgb(253, 255, 255);
+    object-fit: contain;
 
 }
 
